@@ -28,13 +28,13 @@ function AgeCalc() {
   };
 
   const labelStyle = {
-    marginBottom: '10px', // Add a one-line gap below the label
+    marginBottom: '10px', 
   };
 
   const inputStyle = {
     width: '100%',
-    padding: 'auto', // Improve padding around the input
-    marginBottom: '10px', // Add a one-line gap below the input
+    padding: 'auto', 
+    marginBottom: '10px', 
   };
 
   const buttonStyle = {
